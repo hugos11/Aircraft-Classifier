@@ -276,3 +276,4 @@ The final test for this dataset was conducted on 3,333 unseen images. The accura
 * **Variant Accuracy (100 Classes):** `87.61%`
 * **Family Accuracy (70 Classes):** `93.40%`
 * **Manufacturer Accuracy (30 Classes):** `96.34%`
+
