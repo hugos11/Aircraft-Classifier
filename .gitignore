@@ -1,0 +1,45 @@
+# ==========================================
+# FGVC Aircraft Dataset & Raw Downloads
+# ==========================================
+# Ignores downloaded archive and extracted dataset folder
+fgvc-aircraft-2013b.tar.gz
+fgvc-aircraft-2013b/
+data/fgvc-aircraft-2013b/
+**/fgvc-aircraft-2013b/
+
+# General data directory (if storing datasets locally)
+data/
+*.tar.gz
+*.tgz
+*.zip
+
+# ==========================================
+# PyTorch Model Checkpoints & Weights
+# ==========================================
+*.pth
+*.pt
+*.bin
+*.onnx
+checkpoints/
+saved_models/
+runs/
+
+# ==========================================
+# Python & Environment Caches
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+venv/
+env/
+.venv/
+
+# ==========================================
+# IDE & System Files
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
