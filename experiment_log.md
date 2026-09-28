@@ -2,7 +2,7 @@
 **Model Architecture:** ConvNeXt V2 Tiny  
 **Dataset:** FGVC-Aircraft (3,334 train / 3,333 val samples)  
 **Target Classes:** 100 Variants, 70 Families, 30 Manufacturers  
-**Hardware Environment:** AMD Ryzen 5 5625U CPU (6 Cores / 12 Threads)
+**Hardware Environment:** AMD Ryzen 5 5625U CPU (6 Cores / 12 Threads) and later Google Colab NVIDIA Tesla T4 GPU 
 
 ---
 
